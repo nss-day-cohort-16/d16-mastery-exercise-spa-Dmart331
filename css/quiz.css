@@ -1,0 +1,31 @@
+.row{
+	margin-bottom: 30px;
+}
+
+.card{
+	border: solid black 1px;
+	text-align: center;
+	background-color: #59BFBF;
+	color:#3B7F7F;
+
+}
+
+
+body{
+	background-color: #1E4040;
+}
+
+.border{
+	background-color: #FFBDA3;
+	color:#BF5B52;
+	border: solid 4px black;
+
+}
+
+.col-sm-4{
+	margin-right: 2px;
+}
+
+.normal{
+	background-color: red;
+}

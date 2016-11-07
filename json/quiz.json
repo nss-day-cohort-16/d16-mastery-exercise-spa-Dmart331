@@ -1,0 +1,51 @@
+{
+  "inventory": [
+    { 
+      "id":1,
+      "make": "1998 Mazda",
+      "model": "RX-7",
+      "price": "$15,000",
+      "description": "This is an immaculate Dual Rotary Twin Turboooo."
+    },
+
+    {
+        "id":2,
+    	  "make": "1991 Honda",
+      	"model": "Civic EG",
+      	"price": "$4,000",
+      	"description": "Come drive it. You will buy"
+  	},
+  	{
+  		  
+        "id":3,
+        "make": "2001 Honda",
+      	"model": "S2000",
+      	"price": "$12,000",
+      	"description": "SR20 swapped built and track ready. This is a monster."
+  	},
+    {
+      "id":4,
+      "make": "1998 Mazda",
+      "model": "RX-7",
+      "price": "$15,000",
+      "description": "This is an immaculate Dual Roatery Twin Turboooo."
+    },
+
+    {
+      "id":5,
+      "make": "1991 Honda",
+        "model": "Civic EG",
+        "price": "$4,000",
+        "description": "Come drive it. You will buy"
+    },
+    {
+        "id":6,
+        "make": "2001 Honda",
+        "model": "S2000",
+        "year": "2001",
+        "price": "$12,000",
+        "description": "SR20 swapped built and track ready. This is a monster."
+    }
+
+  ]
+}
