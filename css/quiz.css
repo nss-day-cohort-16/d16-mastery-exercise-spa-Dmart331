@@ -9,8 +9,6 @@
 	color:#3B7F7F;
 
 }
-
-
 body{
 	background-color: #1E4040;
 }
@@ -19,13 +17,8 @@ body{
 	background-color: #FFBDA3;
 	color:#BF5B52;
 	border: solid 4px black;
-
 }
 
-.col-sm-4{
-	margin-right: 2px;
-}
-
-.normal{
-	background-color: red;
+#input{
+	margin-left: 55%;
 }
